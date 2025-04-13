@@ -1,0 +1,24 @@
+{
+  "name": "makercli",
+  "version": "1.0.0",
+  "description": "<div style=\"text-align:center\">\r     <img src=\"maker.svg\" height=\"193\" width=\"210\" alt=\"logo\">\r </div>",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "maker": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xamyl/maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xamyl/maker/issues"
+  },
+  "homepage": "https://github.com/xamyl/maker#readme"
+}
