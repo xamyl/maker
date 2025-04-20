@@ -1,6 +1,6 @@
 {
   "name": "gomaker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "<div style=\"text-align:center\">\r     <img src=\"maker.svg\" height=\"193\" width=\"210\" alt=\"logo\">\r </div>",
   "main": "index.js",
   "type": "module",
